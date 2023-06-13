@@ -1,4 +1,4 @@
-# NeverLeak Front (projet collectif)
+# NeverLeak Front (projet en équipe)
 
 # Présentation du projet
 
