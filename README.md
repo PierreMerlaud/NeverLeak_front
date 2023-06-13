@@ -1,4 +1,4 @@
-# NeverLeak Front Repository
+# NeverLeak Front (projet collectif)
 
 # Présentation du projet
 
